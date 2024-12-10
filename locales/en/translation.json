@@ -1,0 +1,67 @@
+{
+  "bio": {
+    "firstName": "Abbas",
+    "lastName": "Jafari Nejad",
+    "jobTitle": "Frontend Developer",
+    "about": "I started my journey in IT in 2012 by enrolling in university and participating in educational courses such as PHP, HTML, CSS, JavaScript, and more. From 2014 to 2021, I taught web design and programming in schools and training centers. During this time, I also worked on freelance projects in backend development, SEO, WordPress, and web design for domestic and North American companies. Additionally, I gained experience as an IT manager and later as a digital marketing manager for two different companies. Since last year, I have focused on frontend development, enhancing my skills through various resources. During this period, I gained valuable experience by participating in two projects as an intern and junior developer, and I am eager to continue learning and growing through new opportunities."
+  },
+  "contact": {
+    "phone": "09193540352",
+    "email": "abbas30000@gmail.com",
+    "location": "Qom, Iran"
+  },
+  "skills": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React.js",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap",
+    "Sass",
+    "Git",
+    "Vue.js",
+    "PHP",
+    "MySQL",
+    "Laravel",
+    "Digital Marketing",
+    "SEO",
+    "Telegram Bot",
+    "WordPress"
+  ],
+  "experiences": [
+    {
+      "company": "Alsafari",
+      "position": "FrontEnd Developer",
+      "startDate": "Aug 2024",
+      "endDate": "Nov 2024",
+      "description": "flight reservation platform with Next.js, MUI, StyledComponents, React, React Query, TypeScript."
+    },
+    {
+      "company": "Yarino",
+      "position": "FrontEnd Developer",
+      "startDate": "Apr 2024",
+      "endDate": "Sep 2024",
+      "description": "Persian community of Mentors and Mentees to connect together. using Next.js, React, NextUI, Tailwind CSS, React Query."
+    }
+  ],
+  "education": [
+    {
+      "school": "Payame Noor University, Qom",
+      "degree": "Bachelor of Engineering",
+      "field": "Information Technology",
+      "startDate": "Sep 2012",
+      "endDate": "Jun 2016"
+    }
+  ],
+  "socials": [
+    {
+        "name": "Github",
+        "url": "https://github.com/AbbasJafarinejad/"
+      },
+      {
+        "name": "Linkedin",
+        "url": "https://www.linkedin.com/in/abbas-jafari-nejad/"
+      }
+  ]
+}
