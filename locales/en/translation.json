@@ -8,7 +8,7 @@
   "contact": {
     "phone": "09193540352",
     "email": "abbas30000@gmail.com",
-    "location": "Qom, Iran"
+    "location": "Iran"
   },
   "skills": [
     "HTML",
@@ -18,6 +18,8 @@
     "Next.js",
     "Tailwind CSS",
     "Bootstrap",
+    "Responsive",
+    "NextUI",
     "Sass",
     "Git",
     "Vue.js",
@@ -29,22 +31,26 @@
     "Telegram Bot",
     "WordPress"
   ],
-  "experiences": [
-    {
-      "company": "Alsafari",
-      "position": "FrontEnd Developer",
-      "startDate": "Aug 2024",
-      "endDate": "Nov 2024",
-      "description": "flight reservation platform with Next.js, MUI, StyledComponents, React, React Query, TypeScript."
-    },
-    {
-      "company": "Yarino",
-      "position": "FrontEnd Developer",
-      "startDate": "Apr 2024",
-      "endDate": "Sep 2024",
-      "description": "Persian community of Mentors and Mentees to connect together. using Next.js, React, NextUI, Tailwind CSS, React Query."
-    }
-  ],
+"projects": [
+  {
+    "name": "Alsafari",
+    "type": "",
+    "description": "Flight reservation platform",
+    "website": "https://alsafari.iq/",
+    "skills": ["Next.js", "MUI", "StyledComponents", "React", "React Query", "TypeScript"],
+    "startDate": "Aug 2024",
+    "endDate": "Nov 2024"
+  },
+  {
+    "name": "Yarino",
+    "type": " ",
+    "description": "Persian community platform connecting mentors and mentees.",
+    "website": "https://yarino.liara.run/",
+    "skills": ["Next.js", "React", "NextUI", "Tailwind CSS", "React Query"],
+    "startDate": "Apr 2024",
+    "endDate": "Sep 2024"
+  }
+],
   "education": [
     {
       "school": "Payame Noor University, Qom",
